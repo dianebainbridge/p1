@@ -30,6 +30,6 @@ function getRandomQuote()
                 </p>
                 <p class="quote"> - Thought for today: <?php getRandomQuote(); ?></p>
             </div>
-        <div>
+        </div>
     </body>
 </html>
